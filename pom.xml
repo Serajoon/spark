@@ -2509,7 +2509,9 @@
     </profile>
 
     <!-- A series of build profiles where customizations for particular Hadoop releases can be made -->
-
+    <!--serajoon
+    一系列构建配置文件，可以对特定的Hadoop版本进行自定义
+    -->
     <!-- Hadoop-a.b.c dependencies can be found at
     http://hadoop.apache.org/docs/ra.b.c/hadoop-project-dist/hadoop-common/dependency-analysis.html
     -->
